@@ -7,4 +7,4 @@ Here are some screenshots for the example app
 
 ![alt text](TTSExampleAppScreenShot2.png "screenShot2")
 
-![alt text](TTSExampleAppScreenShot3.png "screenShot3")
+![alt text](TTSExampleAppscreenShot3.png "screenShot3")
